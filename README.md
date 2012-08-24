@@ -5,7 +5,7 @@ A duplex stream that buffers writes
 ## Example
 
 ``` js
-var BufferStream = require("buffer-streams")
+var BufferStream = require("buffer-stream")
 
 var buffer = BufferStream().buffer()
 
